@@ -1,0 +1,12 @@
+module.exports = {
+    READ: 'READ',
+    WRITE: 'WRITE',
+    QUESTION: 'QUESTION',
+    ANSWER: 'ANSWER',
+    MODERATOR: 'MODERATOR',
+    SYSTEM: 'SYSTEM',
+    COMMENT: 'COMMENT',
+    VOTE: 'VOTE',
+    ANNOTATE: 'ANNOTATE',
+    DOCUMENT: 'DOCUMENT'
+};
